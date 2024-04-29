@@ -5,8 +5,9 @@ export default function Home() {
   return (
     <main>
       <section id="calculator">
-        <View />
-        <Calculation />
+      <View />
+      <Calculation />
+      
       </section>
     </main>
   );
